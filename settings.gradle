@@ -1,1 +1,1 @@
-include ':app-scheduler'
+include ':app-scheduler', ':app-twoprocess'
